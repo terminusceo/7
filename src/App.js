@@ -516,7 +516,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Tamaki Challenge is experimental NFT project. Are you ready to embark on a truly unique journey with Tamaki? Over the course of five intense experimental game theory games, you'll have the power to shape the ultimate form of your Tamaki.
+              Tamaki Challenge is an experimental NFT project. Are you ready to embark on a truly unique journey with Tamaki? Over the course of five intense experimental game theory games, you'll have the power to shape the ultimate form of your Tamaki.
               But make no mistake - this won't be an easy task. To maximize your benefits, you'll need patience, a bit of luck, and perhaps a few sleepless nights.
             </s.TextDescription>
 
